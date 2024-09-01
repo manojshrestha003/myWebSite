@@ -1,5 +1,5 @@
 <?php
-$receiving_email_address = 'manoj.shrestha2081@gmail.com';
+$receiving_email_address = 'shresthamanoj2060@gmail.com';
 
 if (file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php')) {
     include($php_email_form);
